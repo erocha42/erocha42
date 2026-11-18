@@ -11,11 +11,6 @@
 
 <br><br>
 
-<h3><code>enzo@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-skyline.svg" width="860" alt="GitHub contributions for the last year, as an isometric skyline" />
-
-<br><br>
-
 <h3><code>enzo@github ~ $ ls ~/42/</code></h3>
 
 <table>
